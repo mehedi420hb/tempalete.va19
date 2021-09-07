@@ -9,6 +9,7 @@ body{
 
 /* =======Header CSS===== */
 .top-header {
+	position: sticky;
 	background: #f0efef78;
 }
 .top-header .logo {
