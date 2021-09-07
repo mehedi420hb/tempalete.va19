@@ -354,7 +354,7 @@ input {
 input:focus{
     border: 2px solid black;
     border-radius: 5px;
-    background-color: rgba(214, 221, 255, 0.39);
+    background-color: transparent;
 }
 #masage {
 	width: 542px;
@@ -366,7 +366,7 @@ input:focus{
 #masage:focus{
     border: 2px solid black;
     border-radius: 5px;
-    background-color: rgba(214, 221, 255, 0.39);
+    background-color: transparent;
 }
 #btn {
 	display: block;
